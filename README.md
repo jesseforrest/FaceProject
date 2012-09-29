@@ -17,7 +17,7 @@ Requirements
 Your version of PHP will need to be compiled with the following library:
  - GD: Supports necessary image functions
  
- Example - Basic Usage
+Example - Basic Usage
 ---------------------
 
 This example will show how to select the image to be used and output an image.
